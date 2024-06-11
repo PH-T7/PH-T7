@@ -5,9 +5,9 @@
 
 - Contact me **leopodinoraphael@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me on discord:phael00</h3>
 <p align="left">
-<a href="www.linkedin.com/in/raphael-leopoldino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael (ph) leopoldino" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://cdn.prod.website-files.com/625fe439fb70a9d901e138ab/648c1a09c6a80c200fa95349_628c05f2e63f068e62b96336_Discord%20Author%20Black.png"  height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
