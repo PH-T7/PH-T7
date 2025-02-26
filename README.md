@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
