@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PH-T7/PH-T7/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
