@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">You can call me PH,  working a game in GDScript code actually and studing Software Engineering</p>
+<p align="left">I’m Raphael (PH), a junior developer and artist studying Technology in Analysis and Development Systems at Facens. I’m working on a game using GDScript and have experience with JavaScript, Java, and MySQL. I’m eager to grow as a developer and contribute to innovative tech projects.</p>
 
 ###
 
