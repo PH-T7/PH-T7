@@ -14,26 +14,28 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="unity logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
-  <img width="12" />
-  <img src="https://d4.alternativeto.net/KbDWpNfBbEp1tohiDH3C9tMKRrG6_Vvw4Gzxcbib4nQ/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy96ZWQtZWRpdG9yXzIyODU2MS53ZWJw.webp" height="40" alt="ZED logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="arduino logo"/>
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="arduino logo"/>
 </div>
 
 ###
