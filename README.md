@@ -33,9 +33,9 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="arduino logo"/>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gml logo"/>
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="arduino logo"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"/>
 </div>
 
 ###
