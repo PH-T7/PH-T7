@@ -46,13 +46,3 @@
 </div>
 
 ###
-
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/G0Ia-vR_W5gAAAAM/fuuka-yamagishi-sip.gif"  />
-</div>
-
-###
