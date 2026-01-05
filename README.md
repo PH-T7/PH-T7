@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"/>
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="5" />
