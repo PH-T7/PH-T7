@@ -35,10 +35,15 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"/>
 </div>
-
+  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4248--6378-green.svg)](https://orcid.org/0009-0007-4248-6378)
+
 
 
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/leopodinoraphael.png" alt="Your Image Badge" />
+<p align="center">
+  <a href="https://tryhackme.com/p/leopodinoraphael">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/leopodinoraphael.png" alt="Your Image Badge" />
+  </a>
+</p>
