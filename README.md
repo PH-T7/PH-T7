@@ -37,3 +37,8 @@
 </div>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4248--6378-green.svg)](https://orcid.org/0009-0007-4248-6378)
+
+
+</div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/leopodinoraphael.png" alt="Your Image Badge" />
