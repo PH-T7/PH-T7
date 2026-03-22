@@ -5,7 +5,7 @@
   <br><br>
   <b> What I'm currently working on:</b>
   <br>
-  - <b>Nexo Art:</b> Developing a social network tailored for artists, focusing heavily on a clean, dynamic UI (Vue.js with Nuxt.js & Spring boot ).
+  - <b>Nexo Art:</b> Developing a social network tailored for artists, focusing heavily on a clean, dynamic UI (Kotlin in Android studio & Spring boot ).
   <br>
   - <b>FlexLab Tracker:</b> Starting my journey into mobile development by building a tracking app prototype (React Native).
   <br>
@@ -33,6 +33,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
   <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
+  
 </p>
 
 <br>
