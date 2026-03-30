@@ -10,7 +10,10 @@
   - <b>FlexLab Tracker:</b> Starting my journey into mobile development by building a tracking app prototype (React Native).
   <br>
   - <b>Skeleton Cave:</b> Building a Roguelike game, blending my love for art and programming logic (Godot/GDScript).
+  <br>
+  - <b>Modding Minecraft and Garry's Mod:</b> Sometimes, I develop mods for these games, just for fun and to practice. 
 </p>
+
 
 <h2 align="left"> Tech Stack & Tools</h2>
 
