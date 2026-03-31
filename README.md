@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-t7&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ph-t7&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
 </div>
 
 <br>
