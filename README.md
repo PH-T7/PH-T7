@@ -17,36 +17,37 @@
 
 <h2 align="left"> Tech Stack & Tools</h2>
 
-
-<h3 align="left"> Languages</h3>
-
+<h3 align="left"> ☕ Core Stack (Back-end & Systems) </h3>
 <p align="left">
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
   <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
-   <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" /></a>
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /></a>
-  
-
-
-  <h3 align="left"> Engines & Frameworks </h3>
-  
-   <a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxt" height="40" alt="Nuxt.js" /></a>
-   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /></a>
-   <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" /></a>
-   <a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" /></a>
-   
-  
-  <h3 align="left"> Infrastructure & Tools </h3> 
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" alt="Git" /></a>
+</p>
+
+<h3 align="left"> 📱 Front-End & Mobile (Interface) </h3>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
+  <a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxt" height="40" alt="Nuxt.js" /></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" /></a>
+</p>
+
+<h3 align="left"> 🎮 Game Dev & Modding (Logic & Physics) </h3>
+<p align="left">
+   <a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" /></a>
+   <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" height="40" alt="Unity" /></a>
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" /></a>
+   <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" /></a>
+</p>
+
+<h3 align="left"> ⚙️ Infrastructure & Tools </h3> 
+<p align="left">
   <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /></a>
-  <a href="https://zed.dev/" targe="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=zed" height="40" alt="Zed" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" alt="Git" /></a>
+  <a href="https://zed.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zed" height="40" alt="Zed" /></a>
+</p>
   
   
 </p>
