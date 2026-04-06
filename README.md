@@ -1,9 +1,9 @@
-<h1 align="left">Hello! I'm Raphael (PH)  </h1>
+<h1 align="left">Hello, I'm Raphael or PH!  </h1>
 
 <p align="left">
   I'm a Software Engineering Student with a focus on Java and Digital Art. Currently in my last semester of Systems Analysis and Development at Facens. I love bridging the gap between creative design, responsive interfaces, and robust logic.
   <br><br>
-  <b> What I'm currently working on!:</b>
+  <b> What I'm currently working on!: </b>
   <br>
   - <b>Nexo Art(College project):</b> Developing a social network tailored for artists, focusing heavily on a clean, dynamic UI (Kotlin in Android studio & Spring boot ).
   <br>
@@ -15,7 +15,7 @@
 
 <h2 align="left"> Tech Stack & Tools</h2>
 
-<h3 align="left"> ☕ Core Stack (Languague & Systems) </h3>
+<h3 align="left"> ☕ Core Stack (Language & Systems) </h3>
 <p align="left">
   <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
@@ -41,8 +41,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40" alt="Git" /></a>
   <a href="https://zed.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zed" height="40" alt="Zed" /></a>
 </p>
-  
-  
+<h3 align="left"> 🏠 My OS's! </h3> 
+    <a href="https://https://fedoraproject.org/atomic-desktops/kinoite//" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" height="40" alt="Fedora kinote" /></a>
 </p>
 
 <br>
