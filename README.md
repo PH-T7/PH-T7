@@ -42,7 +42,7 @@
   <a href="https://zed.dev/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=zed" height="40" alt="Zed" /></a>
 </p>
 <h3 align="left"> 🏠 My OS's! </h3> 
-    <a href="https://https://fedoraproject.org/atomic-desktops/kinoite//" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" height="40" alt="Fedora kinote" /></a>
+    <a href="https://fedoraproject.org/atomic-desktops/kinoite/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" height="40" alt="Fedora kinote" /></a>
 </p>
 
 <br>
