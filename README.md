@@ -1,13 +1,11 @@
-<h1 align="left">Hello! I'm Raphael (PH) </h1>
+<h1 align="left">Hello! I'm Raphael (PH)  </h1>
 
 <p align="left">
-  I'm a Software Engineering Student with a focus on Java and Digital Art. Currently in my last semester of Systems Analysis and Development at Facens. I love bridging the gap between creative design, responsive interfaces, and robust logic.
+  I'm a Software Engineering Student with a focus on Java and Digital Art. Currently in my last semester of Systems Analysis and Development at Facens. I love bridging the gap between creative design, responsive interfaces, and robust logic. And I Love linux!🐧
   <br><br>
-  <b> What I'm currently working on:</b>
+  <b> What I'm currently working on!:</b>
   <br>
-  - <b>Nexo Art:</b> Developing a social network tailored for artists, focusing heavily on a clean, dynamic UI (Kotlin in Android studio & Spring boot ).
-  <br>
-  - <b>FlexLab Tracker:</b> Starting my journey into mobile development by building a tracking app prototype (React Native).
+  - <b>Nexo Art(College project):</b> Developing a social network tailored for artists, focusing heavily on a clean, dynamic UI (Kotlin in Android studio & Spring boot ).
   <br>
   - <b>Skeleton Cave:</b> Building a Roguelike game, blending my love for art and programming logic (Godot/GDScript).
   <br>
@@ -17,20 +15,15 @@
 
 <h2 align="left"> Tech Stack & Tools</h2>
 
-<h3 align="left"> ☕ Core Stack (Back-end & Systems) </h3>
+<h3 align="left"> ☕ Core Stack (Languague & Systems) </h3>
 <p align="left">
   <a href="https://dev.java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>
-</p>
-
-<h3 align="left"> 📱 Front-End & Mobile (Interface) </h3>
-<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
-  <a href="https://nuxt.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nuxt" height="40" alt="Nuxt.js" /></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" /></a>
+
 </p>
 
 <h3 align="left"> 🎮 Game Dev & Modding (Logic & Physics) </h3>
