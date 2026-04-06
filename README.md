@@ -1,7 +1,7 @@
 <h1 align="left">Hello! I'm Raphael (PH)  </h1>
 
 <p align="left">
-  I'm a Software Engineering Student with a focus on Java and Digital Art. Currently in my last semester of Systems Analysis and Development at Facens. I love bridging the gap between creative design, responsive interfaces, and robust logic. And I Love linux!🐧
+  I'm a Software Engineering Student with a focus on Java and Digital Art. Currently in my last semester of Systems Analysis and Development at Facens. I love bridging the gap between creative design, responsive interfaces, and robust logic.
   <br><br>
   <b> What I'm currently working on!:</b>
   <br>
